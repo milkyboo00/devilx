@@ -25,9 +25,9 @@ PM_START = """Hello {}, I'M {}!
 
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of the things I can help you with.
 
-Deploy a bot like me [Now](https://github.com/tz-ash/tz-ash)
+Deploy a bot like me [Now](https://t.me/tzkid)
 
-Watch A Video To Deploay A Bot Like Me. Click 👉🏻[HERE](https://t.me/red_chipbot)👈🏻
+Watch A Video To Deploay A Bot Like Me. Click 👉🏻[HERE](https://t.me/kid_of_telegram)👈🏻
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
